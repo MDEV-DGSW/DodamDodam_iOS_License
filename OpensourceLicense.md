@@ -1,5 +1,5 @@
 # 도담도담 오픈소스 라이선스 고지
-**Ver.$major.$minor.$point-$code**
+**Ver.$version**
 
 ******************
 ## Alamofire
